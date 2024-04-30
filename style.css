@@ -1,11 +1,12 @@
 body {
-    background: #CCCCCC
+    background: #96e1eb
 }
 
 #banner {
 
     align-items: center;
-    width: 100%;
+    width: 35%;
+    margin-left: 25%
 
 }
 
@@ -22,5 +23,5 @@ p {
 }
 
 em strong {
-    color: #FF0000;
+    color: #1a01ff;
 }
